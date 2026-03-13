@@ -21,7 +21,7 @@ dependencies = [
     "zigpy-xbee==0.21.1",
     "zigpy-zigate==0.13.4",
     "zha-quirks==1.0.1",
-    "zigpy-espzb @ git+https://github.com/lhespress/zigpy-espzb.git",
+    "zigpy-espzb @ git+https://github.com/ZaviiNet/zigpy-espzb.git",
     "pyserial==3.5",
     "pyserial-asyncio-fast",
 ]
